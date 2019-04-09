@@ -5,10 +5,8 @@ import com.example.demo.entities.Profile;
 import com.example.demo.entities.User;
 import com.example.demo.models.CreateAccountModel;
 import com.example.demo.models.UpdateAccountModel;
-import com.example.demo.models.UserViewModel;
 import com.example.demo.repositories.AccountRepository;
 import com.example.demo.repositories.ProfileRepository;
-import com.example.demo.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
